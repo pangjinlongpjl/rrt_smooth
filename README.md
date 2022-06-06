@@ -1,1 +1,2 @@
-to smooth rrt and rrt*
+# rrt_smooth
+# to smooth rrt and rrt*
